@@ -1,0 +1,3 @@
+include ':jsonassert-1.5.0-javadoc'
+include ':jsonassert-1.5.0'
+include ':app'

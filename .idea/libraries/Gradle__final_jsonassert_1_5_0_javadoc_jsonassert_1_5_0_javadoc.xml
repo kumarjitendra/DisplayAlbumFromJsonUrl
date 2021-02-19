@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: final.jsonassert-1.5.0-javadoc.jsonassert-1.5.0-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jsonassert-1.5.0-javadoc/jsonassert-1.5.0-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

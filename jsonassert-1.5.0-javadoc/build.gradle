@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('jsonassert-1.5.0-javadoc.jar'))

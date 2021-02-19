@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/final.iml" filepath="$PROJECT_DIR$/.idea/modules/final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/final.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/final.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jsonassert-1.5.0/final.jsonassert-1.5.0.iml" filepath="$PROJECT_DIR$/.idea/modules/jsonassert-1.5.0/final.jsonassert-1.5.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jsonassert-1.5.0-javadoc/final.jsonassert-1.5.0-javadoc.iml" filepath="$PROJECT_DIR$/.idea/modules/jsonassert-1.5.0-javadoc/final.jsonassert-1.5.0-javadoc.iml" />
+    </modules>
+  </component>
+</project>
